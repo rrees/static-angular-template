@@ -1,3 +1,3 @@
-# Darlin' Corey
+# Static Angular Template
 
-Emulates the game Darlin' Corey
+Template for using Angular in a static application
